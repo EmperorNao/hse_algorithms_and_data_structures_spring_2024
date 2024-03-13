@@ -1,0 +1,20 @@
+************* Module hw2.test_sort
+hw2/test_sort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+hw2/test_sort.py:1:0: E0401: Unable to import 'sorter' (import-error)
+hw2/test_sort.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+hw2/test_sort.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
+hw2/test_sort.py:27:0: C0116: Missing function or method docstring (missing-function-docstring)
+************* Module hw2.sorter
+hw2/sorter.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+hw2/sorter.py:5:0: C0116: Missing function or method docstring (missing-function-docstring)
+hw2/sorter.py:40:0: C0116: Missing function or method docstring (missing-function-docstring)
+************* Module hw2.hw
+hw2/hw.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+hw2/hw.py:1:0: E0401: Unable to import 'sorter' (import-error)
+hw2/hw.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+hw2/hw.py:20:4: C0116: Missing function or method docstring (missing-function-docstring)
+hw2/hw.py:25:4: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.41/10 (previous run: 7.41/10, +0.00)
+
